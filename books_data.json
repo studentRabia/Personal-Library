@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Zubeda appa k totky",
+        "author": "zubeda Appa",
+        "year": "1950",
+        "genre": "story",
+        "read": true
+    },
+    {
+        "title": "Qudrat",
+        "author": "kinat",
+        "year": "2020",
+        "genre": "fiction",
+        "read": false
+    }
+]
